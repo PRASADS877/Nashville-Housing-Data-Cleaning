@@ -81,6 +81,14 @@ The goal is to transform raw, unstructured data into a clean and analysis-ready 
 * SQL
 
 ---
+## 📊 Key Insights
+
+* Property prices vary significantly across cities
+* A small number of cities contribute the majority of total revenue
+* Vacant properties tend to have different pricing trends
+* Sales show year-over-year growth patterns
+* High-value properties dominate total sales contribution
+
 
 ## 📊 Future Work
 
